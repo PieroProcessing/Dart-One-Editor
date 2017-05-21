@@ -27,8 +27,8 @@ int setValueActiveElement= 0;
 
 void setup() {
 
-  //fullScreen();
-  size(820, 640);
+  fullScreen();
+  //size(820, 640);
 
   //**********************
   // for showing the logo 
